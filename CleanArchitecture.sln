@@ -15,27 +15,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Repositor
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application Business Rules", "Application Business Rules", "{1BFE4B6D-AEB7-4987-9FBF-4DCBBA273F45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.DTOs", "CleanArchitecture.DTOs\CleanArchitecture.DTOs.csproj", "{FD1811F6-3009-4B4C-9A57-634D2587A876}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.DTOs", "CleanArchitecture.DTOs\CleanArchitecture.DTOs.csproj", "{FD1811F6-3009-4B4C-9A57-634D2587A876}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.UseCasesPorts", "CleanArchitecture.UseCasesPorts\CleanArchitecture.UseCasesPorts.csproj", "{7C2B55D4-E023-48FA-BDCB-F283F672351D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.UseCasesPorts", "CleanArchitecture.UseCasesPorts\CleanArchitecture.UseCasesPorts.csproj", "{7C2B55D4-E023-48FA-BDCB-F283F672351D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.UseCases", "CleanArchitecture.UseCases\CleanArchitecture.UseCases.csproj", "{600D08D0-E163-430F-A53F-C48633A36E30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.UseCases", "CleanArchitecture.UseCases\CleanArchitecture.UseCases.csproj", "{600D08D0-E163-430F-A53F-C48633A36E30}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presenters", "Presenters", "{698B1C6A-29CE-47F1-99A4-5074FB8A4C08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Presenters", "CleanArchitecture.Presenters\CleanArchitecture.Presenters.csproj", "{32E37242-A2A6-44DE-A057-2D0F0E1121D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Presenters", "CleanArchitecture.Presenters\CleanArchitecture.Presenters.csproj", "{32E37242-A2A6-44DE-A057-2D0F0E1121D2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{D6FB0D32-8990-4AAD-8390-FDF5F9BB3C57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Controllers", "CleanArchitecture.Controllers\CleanArchitecture.Controllers.csproj", "{5779E9F5-BF47-4028-8D5C-56D79CCF951F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Controllers", "CleanArchitecture.Controllers\CleanArchitecture.Controllers.csproj", "{5779E9F5-BF47-4028-8D5C-56D79CCF951F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.IoC", "CleanArchitecture.IoC\CleanArchitecture.IoC.csproj", "{D5EC56D2-3029-45CF-BF8E-CC57FBA549C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.IoC", "CleanArchitecture.IoC\CleanArchitecture.IoC.csproj", "{D5EC56D2-3029-45CF-BF8E-CC57FBA549C3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frameworks And Drivers", "Frameworks And Drivers", "{A97975ED-4580-43D8-8C2A-172ACAAB8DB8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{BB27C876-F2B7-4750-9EB6-510E7CD0BFA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Api", "CleanArchitecture.Api\CleanArchitecture.Api.csproj", "{1B6FACCB-706E-4797-82A0-9087D382ABC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Api", "CleanArchitecture.Api\CleanArchitecture.Api.csproj", "{1B6FACCB-706E-4797-82A0-9087D382ABC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4C18092D-C78F-4445-8265-3E5649C549A4}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
